@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerDigitSum", "PowerDigitSum\PowerDigitSum.csproj", "{EA4D1BB1-085C-4DCB-8103-C946B8D85412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA4D1BB1-085C-4DCB-8103-C946B8D85412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4D1BB1-085C-4DCB-8103-C946B8D85412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4D1BB1-085C-4DCB-8103-C946B8D85412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4D1BB1-085C-4DCB-8103-C946B8D85412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
